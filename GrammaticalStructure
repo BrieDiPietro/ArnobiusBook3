@@ -318,149 +318,148 @@ essent: main verb
 nōrātis: main verb, connects verbs following quemadmodum
 
 3.5.1
-sed
-ut
-vultis
-et
-crēditis
-atque
-ut
-vōbīs
-persuāsum
-est
-hī
-dī
-sint
-nōminibus
-appellentur
-hīs
-etiam
-quibus
-eōs
-populātim
-cēnsērī
-populāris
-vulgāritās
-dūcit
-unde
-tamen
-vōbīs
-liquet
-nōminibus
-hī
-suīs
-cēnsum
-compleant
-an
-sint
-aliquī
-vōbīs
-incognitī
-neque
-in
-ūsum
-aliquandō
-nōtitiamque
-perlātī
-neque
-enim
-scīrī
-est
-facile
-dēfīnīta
-et
-certa
-sit
-eōrum
-numerī
-multitūdō
-an
-sine
-ūllā
-populōsitātis
-summā
-sit
-nec
-computātiōnis
-alicuius
-ratiōnibus
-termināta
-fingāmus
-enim
-vōs
-deōs
-mīlle
-percolere
-vel
-mīlia
-potius
-quīnque
-at
-in
-rērum
-nātūra
-potest
-forsitan
-fierī
-ut
-deōrum
-mīlia
-centum
-sint
-potest
-ut
-hoc
-amplius
-immō
-quod
-dīximus
-paulō
-ante
-potest
-deōrum
-summa
-esse
-nūlla
-nec
-numerābilī
-circumscrīptiōne
-fīnīta
-aut
-igitur
-et
-vōs
-impiī
-quī
-praeter
-deōs
-paucōs
-reliquōrum
-officia
-nōn
-obītis
-aut
-sī
-vōbīs
-veniam
-cēterōrum
-ignōrantiae
-postulātis
-eandem
-et
-nōbīs
-conciliābitis
-veniam
-sī
-prō
-parte
-cōnsimilī
-eōrum
-religiōnibus
-abstinēmus
-quōs
-esse
-omnīnō
-nescīmus
+sed: but
+ut: comparative paired with following ut
+vultis: want
+et: connects vultis and crēditis
+crēditis: believe
+atque: connects ut and ut
+ut: comparative paired with previous ut
+vōbīs: indirect object
+persuāsum est: perfect passive participle
+hī dī: subject of sint
+sint: jussive subjunctive
+nōminibus: object of appellentur
+appellentur: main verb, jussive subjunctive
+hīs: object of appellentur, connected to nōminibus
+quibus: sets off relative clause
+eōs: direct object, refers to nōminibus
+populātim: by people
+cēnsērī: passive complimentary infinitive
+populāris vulgāritās: subject
+dūcit: main verb
+unde: how
+tamen: nevertheless
+vōbīs: indirect object
+liquet: main verb
+nōminibus...suīs: connected
+nōminibus: starts noun clause
+cēnsum: direct object
+compleant: subjunctive
+an: potential, or
+sint: main verb
+aliquī: subject
+vōbīs: indirect object
+incognitī: goes with aliquī
+neque: nor
+in...nōtitiamque: connected
+aliquandō: never
+nōtitiamque: object
+perlātī: connected to incognitī
+
+neque:
+enim:
+scīrī:
+est:
+facile:
+dēfīnīta:
+et:
+certa:
+sit:
+eōrum:
+numerī:
+multitūdō:
+an:
+sine:
+ūllā:
+populōsitātis:
+summā:
+sit:
+nec:
+computātiōnis:
+alicuius:
+ratiōnibus:
+termināta:
+
+3.5.2
+fingāmus:
+enim:
+vōs:
+deōs:
+mīlle:
+percolere:
+vel:
+mīlia:
+potius:
+quīnque:
+at:
+in:
+rērum:
+nātūra:
+potest:
+forsitan:
+fierī:
+ut:
+deōrum:
+mīlia:
+centum:
+sint:
+potest:
+ut:
+hoc:
+amplius:
+immō:
+quod:
+dīximus:
+paulō:
+ante:
+potest:
+deōrum:
+summa:
+esse:
+nūlla:
+nec:
+numerābilī:
+circumscrīptiōne:
+fīnīta:
+aut:
+igitur:
+et:
+vōs:
+impiī:
+quī:
+praeter:
+deōs:
+paucōs:
+reliquōrum:
+officia:
+nōn:
+obītis:
+aut:
+sī:
+vōbīs:
+veniam:
+cēterōrum:
+ignōrantiae:
+postulātis:
+eandem:
+et:
+nōbīs:
+conciliābitis:
+veniam:
+sī:
+prō:
+parte:
+cōnsimilī:
+eōrum:
+religiōnibus:
+abstinēmus:
+quōs:
+esse:
+omnīnō:
+nescīmus:
+
+3.6.1
 et
 tamen
 nē
@@ -507,6 +506,8 @@ rēgis
 ac
 prīncipis
 venerātiōnī
+
+3.6.2
 Sāturnus
 inquit
 et
@@ -565,6 +566,8 @@ quālitātibus
 comprobārent
 eīs
 adiūnctīs
+
+3.6.3
 addūcī
 enim
 prīmum
@@ -590,6 +593,8 @@ partem
 esse
 alteram
 fēminās
+
+3.6.4
 quem
 quidem
 locum
