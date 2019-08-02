@@ -1,95 +1,439 @@
-[first word...verb]#clause type#excluded words
+[first word...verb]#clause type#connection#excluded words
 
 3.2
-[sī...cordī est]#conditional#
-[quod colendum est]#relative clause
-[quod...convenit]#relative clause
-[quod adōrārī]#noun clause, subject
-[quod...exposcit]#relative clause
-[cum...teneāmus]#cum causal#enim
-[ā...dūcitur]#relative clause#
-[supervacuum...īre]#noun clause, object#putamus
-[cum...possimus]#cum temporal
-[ipsī...sint]#indirect question, object
-[quae...habeant]#indirect question, object
-[cuius...sint]#indirect question, object
+[sī...cordī est]#conditional##
+[quod colendum est]#relative clause object#colimus
+[quod...convenit]#relative clause object#adōrāmus
+[quod adōrārī]#noun clause subject#convenit
+[quod...exposcit]#relative clause object#prōmeremur
+[cum...teneāmus]#cum causal#enim#
+[ā...dūcitur]#relative clause#caput
+[supervacuum...īre]#noun clause object#putamus#
+[cum...nesciāmus...possimus]#cum temporal or causal#
+[ipsī...sint]#indirect question object#nesciāmus
+[quae...habeant]#indirect question object#nesciāmus
+[cuius...sint]#indirect question object#nesciāmus
 
 3.3
-[ut...compellimur]#comparative
-[quicquid...est]#relative clause, subject
-[tacitā...comprehendī]#noun clause, object#sentit
-[quīcumque...sunt]#relative clause, subject
-[quōs...prōpōnitis]#relative clause, adjective
-[quōs esse]#noun clause, object
-[etiamsī...accipiant]#concessive clause
-[sē...honōrārī/continērī]#noun clause, object  *2 parallel verbs*
-[sī...liquet/cōnstat]#proviso clause
-[praeter...esse]#noun clause, subject
-[quae...faciant]#relative clause
+[ut...compellimur]#comparative#
+[quicquid...est]#relative clause subject#sentit
+[tacitā...comprehendī]#noun clause object#sentit#
+[quīcumque...sunt]#relative clause subject#oriuntur
+[quōs...prōpōnitis]#relative clause adjective#hī dī
+[quōs esse]#noun clause object#prōpōnitis
+[etiamsī...accipiant]#concessive clause#
+[sē...honōrārī...continērī]#noun clause object#intellegunt
+[sī...liquet...cōnstat]#proviso clause#
+[praeter...esse]#noun clause subject#liquet...constat
+[quae...faciant]#relative clause#[praeter...esse]
 
 3.4
-[diūtius immorārī]#noun clause, predicate
-[nē...videāmur]#purpose
-[ut praedicātis]#comparative
-[hīne...sint]#indirect question, subject
-[quōs...exīstimātis/colitis]#relative clause, adjective
-[quōs esse]#noun clause, object
-[ut...sint]#noun clause, subject
-[quōs esse]#noun clause, object
-[quōs...rēminī]#relative clause, subject
-[quōs esse]#noun clause, object
-[quōs...cōnfīditis]#relative clause, subject
-[quōs esse]#noun clause, object#meminerītis  *labeled twice*
-[quōs esse]#relative clause, object#meminerītis
-[ā...habeant]#indirect question, object
-[quibus...vocātis]#relative clause, adjective
-[sī...sunt]#conditional
-[sīn...habent]#conditional
-[quōs...vīderātis/nōrātis]#relative clause, object
-[quālēs...essent]#indirect question, object
+[diūtius immorārī]#noun clause predicate#est
+[nē...videāmur]#purpose#
+[ut praedicātis]#comparative#
+[hīne...sint]#indirect question subject#comprehēnsum
+[quōs...exīstimātis...colitis]#relative clause adjective#dī
+[quōs esse]#noun clause object#exīstimātis...colitis#
+[ut...sint]#noun clause subject#potest
+[quōs esse]#noun clause object#rēminī
+[quōs...rēminī]#relative clause subject#sint
+[quōs esse]#noun clause object#cōnfīditis
+[quōs...cōnfīditis]#relative clause subject#inveniantur
+*[quōs esse]#noun clause object#meminerītis  *labeled twice*#
+*[quōs esse]#relative clause object#meminerītis#
+[ā...habeant]#indirect question object#audīre
+[quibus...vocātis]#relative clause adjective#nōmina
+[sī...sunt]#conditional#
+[sīn...habent]#conditional#
+[quōs...vīderātis...nōrātis]#relative clause object#dare
+[quālēs...essent]#indirect question object#nōrātis
 
 3.5
-[ut...vultis/crēditis/persuāsum est]#comparative
-[quibus...dūcit]#relative clause
-[quibus...cēnsērī]#noun clause, object
-[nōminibus...compleant]#indirect question, subject
-[scīrī]#noun clause, subject#est facile
-[dēfinīta...sit]#indirect question, subject
-[vōs...potius]#noun clause, object
-[ut...sint]#noun clause, subject
-[ut...amplius]#noun clause, subject   *no verb*
-[quod...dīximus]#relative clause
-[quī...obītis]#relative clause, adjective
-[sī... postulātis]#conditional
-[sī...abstinēmus]#conditional
-[quōs esse]#noun clause, object
-[quōs...nesīcmus]#relative clause
+[ut...vultis...crēditis...persuāsum est]#comparative#
+[quibus...dūcit]#relative clause#nōminibus
+[quibus...cēnsērī]#noun clause object#dūcit
+[nōminibus...compleant]#indirect question subject#liquet
+[scīrī]#noun clause subject#est#est facile#
+[dēfinīta...sit]#indirect question subject#scīrī
+[vōs...potius]#noun clause object#fingāmus
+[ut...sint]#noun clause subject#potest
+[ut...amplius]#noun clause subject#potest *implied verb*
+[quod...dīximus]#relative clause#cataphoric
+[quī...obītis]#relative clause adjective#vōs
+[sī... postulātis]#conditional#
+[sī...abstinēmus]#conditional#
+[quōs esse]#noun clause object#nescīmus
+[quōs...nesīcmus]#relative clause object#abstinēmus
 
 3.6
-[ne...arbitrētur]#purpose
-[nōs...suscipere]#noun clause, object#quisquam pervicāciter arbitrētur
-[quaecumque sunt]#relative clause, adjective
-[quōcumque invītāverītis]#relative clause
-[sī...discāmus]#proviso clause
-[quīnam...sint]#indirect question, object
-[quōs...ingeritis]#relative clause, adjective
-[quōs...sit]#indirect question, object
-[quōs...venerātiōnī]#noun clause, subject#par sit
-[quibus...cōnsecrāvit]#relative clause, adjective
-[sī...cōnfingerētis]#conditional
-[quae...polluerent]#relative clause
-[minime...esse]#noun clause, object
-[quālitātibus...adiūnctīs]#ablative absolute
-[hoc...crēdāmus]#result
-[immortālem...esse]#noun clause, object
-[quid...sentīret]#indirect question
-[ā...pergerētis]#conditional
-[ut dicitur]#comparative
+[ne...arbitrētur]#purpose#
+[nōs...suscipere]#noun clause object#quisquam pervicāciter arbitrētur#arbitrētur
+[quaecumque sunt]#relative clause adjective#nūminum
+[quōcumque invītāverītis]#relative clause#
+[sī...discāmus]#proviso clause#
+[quīnam...sint]#indirect question object#discāmus
+[quōs...ingeritis]#relative clause adjective#dīvīnī
+[quōs...sit]#indirect question object#sit
+[quōs...venerātiōnī]#noun clause subject#sit#par sit#
+[quibus...cōnsecrāvit]#relative clause adjective#cēterī
+[sī...cōnfingerētis]#conditional#
+[quae...polluerent]#relative clause of purpose/characteristic
+[minime...esse]#noun clause object#comprobārent
+[quālitātibus...adiūnctīs]#ablative absolute#comprobārent
+[hoc...crēdāmus]#result clause
+[immortālem...esse]#noun clause object#crēdāmus
+[quid...sentīret]#indirect question object#monstrāvit
+[ā...pergerētis]#conditional#
+[ut dicitur]#comparative#
 
 3.8
-[nē...moveat]#purpose
-[tamquam...crēdāmus]#comparative
-[deum...esse]#noun clause, object
-[quem colimus]#relative clause
-[quod...prōnūntiāmus]#quod causal
-[cum loquimur]#cum temporal
+[nē...moveat]#purpose#
+[tamquam...crēdāmus]#comparative#
+[deum...esse]#noun clause object#crēdāmus
+[quem colimus]#relative clause#deum
+[quod...prōnūntiāmus]#quod causal#
+[cum loquimur]#cum temporal#
+[nōn...prōmī]#noun clause object#intellegat
+[quod...quītist]#relative clause#[nōmen...est]
+[sīve...es]#conditional
+[quae...dēclārat]#relative clause#[sīve...es]
+[dare...]#noun clause object#dēclārat
+[ut...crēdāmus]#noun clause object#addūcī
+[esse]#noun clause subject#necesse est#necesse est
+[sī...sunt]#conditional
+[terrēnōrum...conditōre]#noun clause object#nescit
+[ut...dūrāret]#purpose
+
+3.9
+[deōs...prōcreāre]#noun clause object#dīcēmus
+[ut...possent]#purpose
+[quicquid...abstulisset]#relative clause object#subrogāret
+[sī...sunt]#conditional
+[ut...dēbeant]#noun clause subject#sequitur
+[innummerōs...posse]#noun clause subject#sequitur
+[sīquidem...generant...ampliātur]#causal
+[sī...coeundī]#conditional
+[ut decet]#comparative
+[cūr...sint]#indirect question subject#mōnstrābitur
+[quibus...recognōscere]#relative clause#locīs
+[habērī...]#noun clause subject#est
+[ut...aggerāret]#noun clause appositive#haec
+[quibus...esset]#relative clause adjective#partībus
+[ut...cōnstitūta est]#comparative
+[crēdere...]#noun clause subject#convenit
+[in...esse]#noun clause object#crēdere
+[in...esse]#noun clause object#cōnfitendum est
+[quod...sit]#relative clause adjective#aliquid
+
+3.10
+[quas...prōmere]#relative clause#foeditātēs
+[quas...prōmere]#noun clause subject#īnfāme est#īnfāme est
+[ut...crēdāmus]#noun clause appositive#anaphoric
+[eōs...gestīre]#noun clause object#crēdāmus#crēdāmus
+[frāctīs...dissolūtīsque]#ablative absolute#
+[quoniam...sunt]#causal
+[ut...crēdāmus]#noun clause subject#sequitur
+[deās...persolvere]#noun clause object#crēdāmus
+[circumāctis...mēnsibus]#ablative absolute#persolvere suās
+[intēctīs...nudīs]#ablative absolute
+[Mūsa...praedicat]#comparative
+[glīscentibusque...alvīs]#ablative absolute
+[alīas...cūnctārī...parturīre...quaerere]#noun clause object#vidēre
+[quam...praesūmere]#comparative
+
+3.12
+[quibus...esse]#noun clause object#crēditis
+[quibus...esse]#relative clause#fōrmās
+[quibus...fōrmātis...collāctis]#relative clause#fōrmās
+[tamquam...tribuāmus]#comparative
+[sī...sunt]#conditional
+[per...possītis]#relative clause purpose
+[quibus...conveniat]#indirect question object#addiscere
+[quibus...relaxāre]#noun clause subject#conveniat
+[nātūram...līniāmentīs]#noun clause appositive#cataphoric
+[quae...coeperit...sit]#relative clause#nātūram
+[quibus...fīnīre]#relative clause#formārūm
+[quicquid...esse]#noun clause object#arbitrāmur#arbitrāmur
+[quicquid...est]#relative clause subject#esse
+[obtinēre...posse]#noun clause object#crēdimus#crēdimus
+[quod...circumclūdit]#relative clause#aevitātem
+
+3.13
+[deōs...amplectiminī]#noun clause subject#parum est#parum est
+[quod...est]#relative clause apposition#cataphoric
+[caput...gestāre...fulcīrī]#noun clause object#dicēmus
+[quod...accipiēmus]#conditional
+[quod...sit]#noun clause object#sī accipiēmus#accipiēmus
+[aurēs...habeant]#noun clause subject#etiam sequitur
+[quae...sunt]#relative clause#ea
+[et...portārī]#noun clause subject#cōnsentāneum
+[quae...contegunt]#relative clause#illa
+
+3.14
+[quoniam...abstinent]#causal
+[ēdentulōs...pendēre]#noun clause subject#crēdendum est#crēdendum est
+[sī...sunt]#conditional
+[continuērī...]#noun clause subject#erit
+[similēsne...sint]#indirect question subject#contuērī
+[sī...est]#conditional
+[crēdere...errāre]#noun clause subject#absurdum est
+[sīn...gerunt]#conditional
+[ut...dēbeat]#noun clause subject#sequitur
+[nōn...dātās]#noun clause subject#intellegī
+[ut...possent]#purpose
+[esse]#noun clause object#dīcendum est#dīcendum est
+[neque...opīnārī]#noun clause object#prōdunt...indicant
+[cum...facitis]#causal
+[nē...incommodet]#purpose
+
+3.15
+[quī...tūtārī]#relative clause#
+[pilōs...crēdat]#noun clause object#crēdat#crēdat
+[quod...accipiat]#noun clause subject#est
+[quod...habet]#relative clause subject#accipiat
+[esse]#noun clause apposition#hoc
+[quī...ēluant]#relative clause#tōnsōrēs
+[moribundi...animantis]#noun clause apposition#cataphoric
+[quās...ēnumerāre]#relative clause of characteristic or subject#partibus
+[quā...dēspuitis]#relative clause#sapientia
+[omnem...potēre]#noun clause object#dēspuitis
+[quod...īnseruerint]#causal
+[quod...accipiant]#relative clause#eāsdemque
+[ōra...impōnere]#noun clause subject#pudet
+
+3.16
+[aliās...accommodāvisse]#noun clause object#dicētis
+[quam...fēcisse]#comparative
+[errōris...fēcisse]#noun clause subject#est
+[sī...fatērēminī]#conditional
+[id...attribuisse]#noun clause object#fatērēminī
+[quod...crēdidisset]#relative clause#id
+[praesūmptā...peccāsse]#noun clause subject#erat
+[cum...crēditis...fingitis]#cum temporal
+[quibus...attribuitis]#relative clause#eōs
+[quod...cōnfitēminī]#relative clause#id
+[quod...esse]#noun clause object#cōnfitēminī#cōnfitēminī
+[irreligiōsī esse]#noun clause object#mōnstrāminī
+[cum...adōrātis]#cum temporal
+[quod...fingitis]#relative clause#id
+[non...cēnsētis]#relative clause#id
+[quod...esse]#noun clause object#cēnsētis
+[sī...honōrāre]#conditional
+[sī...vellent]#conditional
+[sī...stāret]#conditional
+[ita...rīdērī]#noun clause object#rident
+[sī rīdent]#conditinal
+[quoniam...cēnsētis]#causal
+[afficī...īre]#noun clause object#cēnsētis
+[non...īnsānīre]#noun clause object#cēnsētis
+
+3.17
+[sī...displicet]#conditional#inquiunt
+[quā...sit]#indirect question subject#
+[sī...audīre]#conditional
+[ea...sit]#indirect question object
+[quod...vīdimus]#noun clause object
+[quod...nescīre]#noun clause subject
+[quod...dūcimus]#noun clause object
+[quia...prōmimus]#causal apposition
+[ut...dubitēmus]#comparitive
+[sī...dīcātur]#conditional
+[falsum...esse]#noun clause object
+[quamvīs...nesciāmus]#concessive
+[quae...sit]#indirect question object
+[cum...agātur]#temporal
+[quam...perhibētis]#relative clause subject
+[quam...esse]#noun clause object#convincimus
+[etiamsī...possumus]#concessive
+
+3.18
+[quās...liquet]#relative clause
+[quās...esse]#noun clause object#liquet
+[sī...dīxerīmus]#conditional
+[īsdem...vidēre]#noun clause object#dixerimus
+[quibus...vidēmus]#relative clause#illum
+[ut...dēbeat]#noun clause object#sequitur
+[superiectas...habēre...cōnīvēre...nictāre...cernere]#noun clause subject#dēbeat
+[quod....est]#relative clause
+[sī...possit]#noun clause subject#dīcendum est
+[sī...audiat]#conditional
+[sī...conformet]#noun clause subject#dīcendum est
+[sī...funduntur]#conditional
+
+3.19
+[sī...audīre]#conditional#
+[ut...tribuāmus]#noun clause subject#abest
+[ut...vereāmur]#result
+[quibus...concessum est]#relative clause#
+[quibus eminēre]#noun clause object#dixerit
+[deum...est]#noun clause object#dixerit#dixerit, quis
+[quī...dīcat]#relative result clause
+[hūmānīs...esse]#noun clause object#dīcat
+[quod...careat]#causal
+[quicquid...dīxerīs]#noun clause subject#trānsilit
+[quod...dīcitur]#causal
+[sī...sciās...sentiās]#conditional
+[nihil...posse]#noun clause object#sciās, sentiās
+
+3.24
+[nisi...accipiant]#conditional
+[nisi...cōnspexerint]#conditional
+[spontāneās...esse]#noun clause object#rēbar
+[ut...largiātur]#indirect command object#exambītur
+[quibus vīvitur]#relative clause
+[inexōrāta...praebēre]#noun clause appositive#vērī
+[sacrificiīs...annuere]#noun clause subject#est
+[quod...poscāris]#relative clause
+[istud...vēnditāre]#noun clause predicate#est
+[quī...sit]#indirect question object#oblītī
+[quid...]#indirect question object#arrogāmus
+[quicquid...potuimus]#relative clause object#arrogāmus
+
+3.25
+[nisi...oblinerentur]#conditional
+[nisi...dissolverent]#conditional
+[nisi...pōtārent...manderent]#conditional
+[quod...contentī]#noun clause subject#
+
+3.26
+[quae cōnstituutis]#relative clause
+[ex...praeficitis...ārdōrī]#relative clause
+[utrumne...compescat...commoveat]#purpose
+[sī...est]#conditional
+[sīn...est]#conditional
+[deum...collīdere]#noun clause object#dicēmus#ergō dicēmus
+
+3.27
+[quod...trādūcere]#noun clause subject#licēbit#licēbit
+[sī...subdit]#conditional
+[sīcut...perhibētis...crēditis]#comparative
+[ut...debēat]#noun clause subject#sequitur
+[quicquid...dēbeat]#noun clause subject#dēbeat
+[quicquid...proficīscitur]#relative clause subject#dēbeat
+[constantiae...virīlitātis]#causal
+
+3.28
+[quī...polluat...contāminet]#relative clause of characteristic
+[quās...permulsit...extenuavit]#relative clause
+[quod...āmōtī sunt]#noun clause apposition
+[ut...prōpellant]#indirect command object#ōrāmus
+[sī...repperiuntur]#conditional
+[quibus...carpimur]#relative clause
+[quantumlibet...vocētis]#concessive
+[esse...cōnserant...inquiētent]
+[quae...faciunt]#relative clause
+[sī...faciunt]#conditional
+[quae...dīcitis]#relative clause
+
+3.29
+[sī...compellerētis]#conditional
+[cum...contenditis]#cum temporal
+[quōs...opīnāminī]#relative clause
+[quōs...manifēstum est]#relative clause
+[quōs...esse]#noun clause subject#manifēstum est#manifēstum est
+[innumerōs esse]#noun clause object#cōnscrībitis#cōnscrībitis
+[quōs...accēpit]#noun clause subject#
+[quōs...esse]#noun clause object#accēpit
+[quem...prōdidēre]#relative clause
+[quem...esse]#noun clause object#prōdidēre#quīdam ex vōbīs, aliī, prōdidēre nōnnūllī
+[quod...accipiēmus]#conditional
+[quod...sit]#noun clause object#accipiēmus#sī accipiēmus
+[ut...debēat]#noun clause subject#sequitur
+[nūllum...fuisse]#noun clause subject#debēat
+[quem...ferunt]#relative clause
+[quem...rēgnāsse]#noun clause object#ferunt#ferunt
+[quem...crēditis]#relative clause
+[quem...antepōnitis]#noun clause object#crēditis
+[sī...est]#conditional
+[annum...esse]#noun clause object#ignōrat#ignōrat
+[quod...conclūsum est]#relative clause
+[quod...trādūcere]#noun clause subject#licēbit#licēbit
+[sī...significātur]#conditional
+[Graecōrum...autumant]#comparative
+[ut...habeātur]#result
+[quod...est]#relative clause subject#habeātur
+[qui...dīcat]#relative clause result
+[tempus...esse]#noun clause object#dīcat#dīcat
+[quod...est]#relative clause
+[quem...esse]#relative clause
+[quem...ēdidit]#noun clause object#ēdidit
+
+3.30
+[quem...esse]#relative clause
+[quem...agitantem]#noun clause object#dictitāvēre#dictitāvēre sapientēs
+[turbā...cōnsequente]#ablative absolute temporal
+[sī...liquet...cōnstat]#conditional
+[quī...memorātur]#relative clause
+[ut...ēvāderet]#purpose clause
+[sī...est]#conditional
+[quemadmodum...cōnsuēstis]#comparative
+[praeposteritāte repetītā]#ablative absolute
+
+3.36
+[sī...subruerēmus]#conditional clause
+[quīn...postulārētis]#clause of hindering
+[quibus...prōluere]#relative clause
+[cum...tollātur]#cum causal#vērō
+[intendere...]#noun clause object#audētis
+[cum...habeant]#cum causal
+[sī...est]#conditional
+[esse...incalēscere]#noun clause subject#est
+[propter...saeviant]#relative clause of purpose
+[quam...esse]#comparative
+[quod...negātis]#noun clause accusative
+[eōs...subsistere]#noun clause object#negātis
+
+3.42
+[speciēs...īre...facere]#noun clause subject#est
+[nūllum...esse]#noun clause predicate#est
+[dē...prōmpserītis]#relative clause#vōbīs
+[haec...est]#noun clause subject#est
+[quae...dicta sunt]#relative clause#haec
+[coacervāre]#noun clause subject#est
+[cum...fīat...pateat]#cum temporal
+[haesitāre...labāre...dīcere]#noun clause subject#fīat, pateat
+[quās asseritis]#relative clause#rēbus
+[etaimsī...ignōrāmus]#noun clause object#dicētis
+[etaimsī...ignōrāmus]#concessive
+[quī...sunt...sunt]#indirect question object#ignōrāmus
+[esse...obtinere]#noun clause object#vindicat#tamen cōnsēnsiō ipsa vindicat auctōrum
+[an...scīrī]#indirect question subject#poterit
+[sī...ignōrābitur...nesciētur]#conditional
+[quid sit]#indirect question subject#ignōrābitur, nesciētur
+[sī...erit]#conditional
+[quis...dēbeat]#indirect question subject#erit
+[quī...quaerit]#relative clause#
+[cui...supplicet...implōret...exposcat]#indirect question object#scīre
+[maximē...referātis]#cum causal
+[nōn...posse]#noun clause object#referātis
+[dissimillimīs...]#noun clause object#referātis#referātis
+
+3.43
+[sī...dēsīderat]#conditional
+[capite vēlātō]#ablative absolute
+[nūdō]#ablative absolute
+[an...sit]#indirect question subject#potest
+[cum...cōgat]#cum clause
+[mē...dīcentem]#noun clause object#finge
+[adeste]#noun clause object#dīcentem
+[sī...erunt]#conditional
+[sī...invocārō]#conditional
+[quōs...assevērat]#relative clause
+[quōs...esse]#noun clause object#assevērat
+[cum...imposuerō]#cum temporal
+[sī...fuerint]#conditional
+[nē...habeant...teneant]#purpose
+
+3.44
+[sī...liquet]#conditional
+[in...habitāre...cōnsistere]#noun clause subject#liquet
+[quam enumerātis]#relative clause
+[in...stāre]#noun clause subject##convenit
+[quās...struitis]#relative clause
+[sī...est...sit]#conditional
+[cōnfīdere...tenēre...dēfīgī...dīcere]#noun clause subject#est#hoc
+[Novensiles...sunt...sunt]#noun clause object#dīcere
+[ut...possit]#noun clause apposition#
+[dum...tollitis...repōnitis]#temporal
+[iūre...dubitārī]#noun clause subject#possit
+[an...sint]#noun clause subject#dubitārī
